@@ -1,16 +1,9 @@
-# fbdraggable
+[![Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue.svg)](https://flutter.dev/)
+[![MIT License](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-A new Flutter project.
 
-## Getting Started
+<img src='https://www.outdoorcoders.com/images/flutterbits_readme.png' width=450>
 
-This project is a starting point for a Flutter application.
+Welcome to the Flutter Bits Widget repository! This repository provides a comprehensive collection of examples, best practices, and resources for effectively using the Draggable widget in Flutter to create stunning and interactive mobile app UIs.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
