@@ -6,4 +6,4 @@
 
 Welcome to the Flutter Bits Widget repository! This repository provides a comprehensive collection of examples, best practices, and resources for effectively using the Draggable widget in Flutter to create stunning and interactive mobile app UIs.
 
-
+YouTube - https://youtu.be/p3GFigNawv4
